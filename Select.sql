@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE id IN (501,502);
